@@ -1,0 +1,18 @@
+inserir_inicio,Amery,Duesbury,aduesbury0@mayoclinic.com,139-140-5239,4,4,1960,Administrative Assistant III
+inserir_inicio,Brad,Habbes,bhabbes1@freewebs.com,929-299-5179,13,10,1986,Electrical Engineer
+inserir_final,Krysta,Scobie,kscobie2@macromedia.com,838-468-8831,7,9,1974,Financial Advisor
+inserir_final,Loretta,Starmer,lstarmer3@go.com,788-761-0916,17,10,1957,Health Coach IV
+inserir_inicio,Nananne,Jarrad,njarrad4@businessweek.com,749-760-5206,18,5,1951,Civil Engineer
+inserir_inicio,Hatty,Janota,hjanota5@soup.io,957-368-0919,29,7,2001,Help Desk Technician
+inserir_final,Blondelle,Farfolomeev,bfarfolomeevf@chron.com,863-352-8527,30,5,1957,Help Desk Technician
+inserir_inicio,Krissie,Bourhill,kbourhillg@whitehouse.gov,711-161-1962,30,2,1995,Social Worker
+inserir_inicio,Dawn,Carillo,dcarillop@prlog.org,870-628-6174,21,8,2999,Mechanical Systems Engineer
+inserir_inicio,Nelson,Cotter,ncotterq@huffingtonpost.com,754-155-5258,12,8,1995,Chief Design Engineer
+inserir_final,Pippy,Orehead,poreheadr@wikia.com,324-494-7499,19,3,1994,Pharmacist
+buscar,corryc@japanpost.jp
+buscar,sredheads@tmall.com
+inserir_inicio,Sidonnie,Redhead,sredheads@tmall.com,330-618-5576,16,8,1961,Administrative Officer
+buscar,sredheads@tmall.com
+remover,sredheads@tmall.com
+inserir_inicio,Lucy,Devinn,ldevinnt@nationalgeographic.com,870-831-8357,21,12,1988,Cost Accountant
+ordenar

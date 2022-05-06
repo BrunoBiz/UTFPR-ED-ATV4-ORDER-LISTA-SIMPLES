@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1638404142 source:c:\users\usuario\desktop\utf\ed\trabalho 4\listacontatos.c
+	"ListaContatos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1638231730 c:\users\usuario\desktop\utf\ed\trabalho 4\listacontatos.h
+
+1638317856 source:c:\users\usuario\desktop\utf\ed\trabalho 4\main.c
+	"ListaContatos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
